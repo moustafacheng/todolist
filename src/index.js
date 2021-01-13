@@ -8,7 +8,7 @@ import "./i18n";
 const DATA = [
   { id: "todo-0", name: "Eat", completed: false },
   { id: "todo-1", name: "Sleep", completed: false },
-  { id: "todo-2", name: "Repeat", completed: false },
+  { id: "todo-2", name: "Play", completed: false },
 ];
 
 ReactDOM.render(
